@@ -1,6 +1,6 @@
 # Recognition-of-gestures-and-actions
 
-This project implements a system to recognize gestures and movements in videos and images using a pre-trained deep learning model. The system leverages computer vision techniques to detect key points on the human body and analyze them to interpret gestures or actions. 
+This project leverages a pre-trained deep learning model to recognize gestures and movements in images and videos. By detecting and analyzing key points on the human body, the system can identify specific poses and actions, making it useful for applications like pose estimation, activity monitoring, and gesture-based controls. 
 
 ## Features
 
