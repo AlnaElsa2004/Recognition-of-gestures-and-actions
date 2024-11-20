@@ -27,6 +27,14 @@ This project leverages a pre-trained deep learning model to recognize gestures a
 - Images: Processed images with key points and gesture labels are saved as PNG files in the outputs/ directory.
 - Videos: Processed video frames with key points and gesture labels are combined and saved as GIF files for easy viewing.
 
+### Key Points Mapping
+
+The system detects 15 key points on the human body, which correspond to specific joints or body parts. The figure below lists the mapping of key points, and the image provides a visual representation:
+  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88952e72-ef46-4e09-8ba5-1ba1a2117e04" alt="key_points" />
+</p>
+
 ## Acknowledgments
 
 This project utilizes deep learning techniques and pre-trained models for pose detection, enabling fast and accurate recognition of human gestures and movements.
